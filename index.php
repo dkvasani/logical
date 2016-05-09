@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Welcome | Dharmesh Vasani's C9.io WorkPlace
+<title> Welcome | Dharmesh Vasani's C9.io WorkPlace</title>
 </head>
 <body>
 <?php
